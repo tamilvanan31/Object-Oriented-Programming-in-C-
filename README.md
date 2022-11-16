@@ -1,3 +1,5 @@
 # Object-Oriented-Programming-in-CPP
-Basics of OOP paradigm.
+
 All the OOP concepts are covered in C++
+
+Run the main.cpp to see the output
